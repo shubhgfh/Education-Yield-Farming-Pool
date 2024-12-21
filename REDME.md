@@ -8,6 +8,8 @@ The Education Yield Farming Pool allows users to stake tokens and earn rewards i
 
 ## Contract Address
 0x01287c241e80abeb248895478631c8af832ca938108960e33ce5239e9595fe72
+![image](https://github.com/user-attachments/assets/b3e89248-b41c-4b0f-a073-c235f9ec3922)
+
 
 ## Project Vision
 Our vision is to provide a decentralized way for individuals to earn passive income while contributing to educational causes. By using yield farming mechanisms, we aim to generate a sustainable source of funding for education that is transparent, efficient, and accessible to all.
